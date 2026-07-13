@@ -1,7 +1,7 @@
 body {
     background-color:hotpink;
     margin: 0 auto;
-    max-width: 100vw;
+    max-width: 100%;
     overflow-x: hidden;
 }
 
